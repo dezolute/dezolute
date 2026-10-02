@@ -6,7 +6,7 @@
 Interested in building web applications, APIs and developer tools.
 
 <table>
-<td style="border: 0; vertical-align: middle">
+<td style="width: 50%; border: none; vertical-align: middle; outline: none;">
 
 **Languages:**  Python · TypeScript
 **Backend:** FastAPI · Node.js · REST API
@@ -15,7 +15,7 @@ Interested in building web applications, APIs and developer tools.
 **Tools:** Docker · Git · Linux · Postman
 
 </td>
-<td style="border: 0; vertical-align: middle">
+<td style="width: 50%; border: none; vertical-align: middle; outline: none;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezolute&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
