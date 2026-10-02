@@ -1,19 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&duration=3000&pause=500&color=808CDB&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Kirill;Python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&duration=3000&pause=500&color=808CDB&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Kirill;Backend+developer)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### 🛠️ Tech Stack
 
-Backend-oriented developer interested in building web applications, APIs and developer tools.
+Interested in building web applications, APIs and developer tools.
 
-**Languages:**  Python · TypeScript <br>
-**Backend:** FastAPI · Node.js · REST API <br>
-**Databases:** PostgreSQL · Redis <br>
-**Frontend:** React · HTML · CSS <br>
-**Tools:** Docker · Git · Linux · Postman <br>
-**UX/UI:** Figma <br>
+<table>
+<td style="border: 0; vertical-align: middle">
 
+**Languages:**  Python · TypeScript
+**Backend:** FastAPI · Node.js · REST API
+**Databases:** PostgreSQL · Redis
+**Frontend:** React · HTML · CSS
+**Tools:** Docker · Git · Linux · Postman
+
+</td>
+<td style="border: 0; vertical-align: middle">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezolute&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</table>
 
 ### 🚀 Featured Projects
 
