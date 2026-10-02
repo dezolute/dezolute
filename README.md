@@ -33,5 +33,5 @@ Backend-oriented developer interested in building web applications, APIs and dev
 
 ### 📫 Contact
 
-GitHub: [@dezolute](https://github.com/dezolute)
+GitHub: [@dezolute](https://github.com/dezolute) <br>
 Mail: [kirill.p1006@gmail.com](mailto:kirill.p1006@gmail.com)
