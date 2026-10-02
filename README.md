@@ -5,7 +5,7 @@
 
 Interested in building web applications, APIs and developer tools.
 
-<table>
+<table style="width: 100%;">
 <td style="width: 50%; border: none; vertical-align: middle; outline: none;">
 
 **Languages:**  Python · TypeScript · Go <br>
