@@ -5,12 +5,12 @@
 
 Backend-oriented developer interested in building web applications, APIs and developer tools.
 
-**Languages:**  Python · TypeScript
-**Backend:** FastAPI · Node.js · REST API
-**Databases:** PostgreSQL · Redis
-**Frontend:** React · HTML · CSS
-**Tools:** Docker · Git · Linux · Postman
-**UX/UI:**
+**Languages:**  Python · TypeScript <br>
+**Backend:** FastAPI · Node.js · REST API <br>
+**Databases:** PostgreSQL · Redis <br>
+**Frontend:** React · HTML · CSS <br>
+**Tools:** Docker · Git · Linux · Postman <br>
+**UX/UI:** Figma <br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezolute&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
