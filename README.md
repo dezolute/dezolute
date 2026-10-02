@@ -8,10 +8,10 @@ Interested in building web applications, APIs and developer tools.
 <table>
 <td style="width: 50%; border: none; vertical-align: middle; outline: none;">
 
-**Languages:**  Python · TypeScript
-**Backend:** FastAPI · Node.js · REST API
-**Databases:** PostgreSQL · Redis
-**Frontend:** React · HTML · CSS
+**Languages:**  Python · TypeScript · Go <br>
+**Backend:** FastAPI · Node.js · Gin <br>
+**Databases:** PostgreSQL · Redis <br>
+**Frontend:** React · HTML · CSS <br>
 **Tools:** Docker · Git · Linux · Postman
 
 </td>
